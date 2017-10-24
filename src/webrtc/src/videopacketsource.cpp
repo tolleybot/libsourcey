@@ -10,6 +10,7 @@
 
 
 #include "scy/webrtc/videopacketsource.h"
+#include "webrtc/api/video/i420_buffer.h"
 
 #ifdef HAVE_FFMPEG
 
